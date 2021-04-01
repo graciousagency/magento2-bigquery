@@ -1,0 +1,11 @@
+{
+    "name": "gracious/magento2-bigquery",
+    "description": "Transport layer to push data to Google BigQuery",
+    "authors": [
+        {
+            "name": "Pepijn Blom",
+            "email": "p.blom@gracious.nl"
+        }
+    ],
+    "require": {}
+}
